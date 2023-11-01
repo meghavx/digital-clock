@@ -1,5 +1,6 @@
 # Digital Clock
 A learning project created using HTML, CSS, and JavaScript.
 
-##### Link to the tutorial video: 
-https://youtu.be/lsoCv8Agg6E?feature=shared
+##### View project: [Link](https://orbitze.github.io/digital-clock/)
+
+###### Tutorial followed: [Link](https://youtu.be/lsoCv8Agg6E?feature=shared)
