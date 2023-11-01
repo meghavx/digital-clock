@@ -1,0 +1,22 @@
+body {
+    color: white;
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container {
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#date {
+    color: antiquewhite;
+    font-size: 4vw;
+}
+
+#time {
+    font-size: 8vw;
+}
