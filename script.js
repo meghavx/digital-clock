@@ -7,7 +7,7 @@ function displayTimeAndDate() {
     let timeDate = new Date();
     
     // Extract date 
-    let mmm  = timeDate.toLocaleString("default", { month: "short" })
+    let mmm  = timeDate.toLocaleString("default", { month: "long" })
     let dd   = timeDate.getDate();
     let yyyy = timeDate.getFullYear();
 

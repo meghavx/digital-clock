@@ -5,7 +5,7 @@ body {
 }
 
 .container {
-    height: 80vh;
+    height: 75vh;
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -14,9 +14,10 @@ body {
 
 #date {
     color: antiquewhite;
-    font-size: 4vw;
+    font-size: 2vw;
+    margin-bottom: 4vh;
 }
 
 #time {
-    font-size: 8vw;
+    font-size: 6vw;
 }
